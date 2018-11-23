@@ -260,4 +260,5 @@ Application side can use Cisco's python example script for generating signed url
 https://www.cisco.com/c/en/us/td/docs/video/cds/cda/is/2_0/developer/guide/URLsigning.html#wp1003509
 
 
-
+# License:
+MIT License
